@@ -71,9 +71,9 @@ Create a new ```.env ``` file in project directory and add:
    OPENROUTER_API_KEY="your_api_key_here"
    ```
 4.**Run the Script**
-```bash
-python shouldIReply.py
+   ```bash
+   python shouldIReply.py
 
-```
+   ```
 
 
