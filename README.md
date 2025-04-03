@@ -65,6 +65,7 @@ Before running the project, ensure you have:
    ```
 3. **Set Up Environment Variables**
 Create a new ```.env ``` file in project directory and add:
+
    ```bash
    GMAIL_USER="your_email@gmail.com"
    GMAIL_PASSWORD="your_app_password" # Use an App Password for security
